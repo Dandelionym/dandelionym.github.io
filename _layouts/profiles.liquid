@@ -17,6 +17,11 @@ layout: page
             {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
             {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
           {% endif %}
+
+          <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
+            <img style="width: 120px;" src="https://komarev.com/ghpvc/?username=dandelionym&label=Profile%20views&color=0e75b6&style=flat" alt="dandelionym" />
+        </div>
+
           {% if profile.more_info %}
             <div class="more-info">{{ profile.more_info }}</div>
           {% endif %}
