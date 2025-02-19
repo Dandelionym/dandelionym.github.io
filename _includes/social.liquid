@@ -72,14 +72,6 @@
       <a href="https://telegram.me/{{ social[1] }}" title="telegram"><i style="font-size: 0.45em;" class="fa-brands fa-telegram"></i></a>
     {% when 'unsplash_id' %}
       <a href="https://unsplash.com/@{{ social[1] }}" title="Unsplash"><i style="font-size: 0.45em;" class="fa-brands fa-unsplash"></i></a>
-    {% when 'wechat_qr' %}
-      <a id="WeChatBtn" title="WeChat"><i style="font-size: 0.45em;" class="fa-brands fa-weixin"></i></a>
-      <div id="WeChatMod" class="wechat-modal">
-        <i style="font-size: 0.45em;"mg src="{{ social[1] | prepend: 'assets/img/' | relative_url }}" alt="WeChat QR" id="WeChatQR">
-      </div>
-      <script defer src="{{ '/assets/js/wechat.js' | relative_url | bust_file_cache }}" type="text/javascript"></script>
-    {% when 'whatsapp_number' %}
-      <a href="https://wa.me/{{ social[1] }}" title="whatsapp"><i style="font-size: 0.45em;" class="fa-brands fa-whatsapp"></i></a>
     {% when 'wikidata_id' %}
       <a href="https://www.wikidata.org/wiki/{{ social[1] }}" title="Wikidata"><i style="font-size: 0.45em;" class="fa-solid fa-barcode"></i></a>
     {% when 'wikipedia_id' %}
