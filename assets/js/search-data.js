@@ -23,7 +23,25 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-can-language-models-understand-the-world-a-misleading-question",
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "Teaching assistant experience and course materials",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
+        },{id: "post-ai-for-material-synthesis-science-a-brief-introduction",
+      
+        title: 'AI for Material Synthesis Science: A Brief Introduction <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://pub.aimind.so/ai-for-material-synthesis-science-a-brief-introduction-0b278f487a86?source=rss-f64fe619ecf4------2", "_blank");
+        
+      },
+    },{id: "post-can-language-models-understand-the-world-a-misleading-question",
       
         title: 'Can Language Models “Understand” the World? A Misleading Question <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
@@ -51,8 +69,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-recent-work-has-been-accepted-to-the-neurips-ai4mat-workshop",
           title: 'Our recent work has been accepted to the NeurIPS AI4Mat workshop!',
           description: "",
-          section: "News",},{id: "news-we-are-currently-offering-one-positions-for-visiting-student-with-a-background-in-nlp",
-          title: '🔥 We are currently offering one positions for visiting student with a background...',
+          section: "News",},{id: "news-we-are-currently-offering-one-position-for-visiting-student-with-a-background-in-nlp",
+          title: '🔥 We are currently offering one position for visiting student with a background...',
           description: "",
           section: "News",},{
         id: 'social-email',
