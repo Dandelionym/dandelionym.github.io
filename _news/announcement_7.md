@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🔥 We are currently offering **one** positions for visiting student with a background in _NLP_ !
+🔥 We are currently offering **one** position for visiting student with a background in _NLP_ !

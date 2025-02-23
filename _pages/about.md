@@ -41,6 +41,6 @@ In addition to his achievements in the field of literature, he is also a highly 
 
 Mellen Y.Pu is a Ph.D. candidate in the School of Engineering at Westlake University, under the mentorship of **Prof. [Tao Lin](https://en.westlake.edu.cn/faculty/tao-lin.html)** and **Fellow of the Royal Society of Chemistry, Prof. [Hongyu Chen](https://en.westlake.edu.cn/faculty/hongyu-chen.html)**. 
 
-He is currently focusing on **Language Models in Natural Science**. He looks forward to long-term cooperation and extensive exchanges on **<u>AI for Science</u>**.  
+He is currently focusing on **Language Models in Natural Science**. He looks forward to long-term cooperation and extensive exchanges on **<u>Natural Language Processing for Science</u>**.  
 
 <br/>
