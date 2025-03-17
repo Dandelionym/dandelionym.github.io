@@ -27,6 +27,12 @@ announcements:
 
 ---
 
+<style>
+    table {
+        color: black !important;
+    }
+</style>
+
 &emsp;&emsp; <i>"Through rigorous science, the world aligns; I cherish unveiling its designs. "</i>
 
 <p align="right"> —— <b>Mellen Y. Pu</b> </p> 

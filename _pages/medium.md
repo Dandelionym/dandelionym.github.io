@@ -108,6 +108,7 @@ nav_order: 2
   .medium-post-title a:hover {
     color: #0d6efd;
     text-decoration: none !important;
+    
   }
   .medium-post-meta {
     font-size: 0.85rem;
