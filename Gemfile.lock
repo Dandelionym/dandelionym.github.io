@@ -209,6 +209,8 @@ GEM
       ffi (~> 1.0)
     rexml (3.4.0)
     rouge (4.5.1)
+    rss (0.3.1)
+      rexml
     safe_yaml (1.0.5)
     sass-embedded (1.83.4-aarch64-linux-gnu)
       google-protobuf (~> 4.29)
@@ -279,6 +281,7 @@ DEPENDENCIES
   jemoji
   observer
   ostruct
+  rss
   terser
 
 BUNDLED WITH

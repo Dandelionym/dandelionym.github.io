@@ -29,7 +29,8 @@ announcements:
 
 &emsp;&emsp; <i>"Through rigorous science, the world aligns; I cherish unveiling its designs. "</i>
 
-<p align="right"> —— <b>Mellen Y. Pu</b> </p>
+<p align="right"> —— <b>Mellen Y. Pu</b> </p> 
+
 
 
 ### About
@@ -38,9 +39,8 @@ In 2019, he authored a collection of poems titled *Season of the Rain*, and in 2
 
 In addition to his achievements in the field of literature, he is also a highly skilled **Software Engineer**. In 2021, he developed a web-based system for online cooperation aimed at promoting knowledge sharing in society. He also designed the Intelligent Assisted Diagnosis System for Bladder Cancer Imaging, a widely-used remote diagnosis tool, as well as four other widely-utilized web systems.
 
-
 Mellen Y.Pu is a Ph.D. candidate in the School of Engineering at Westlake University, under the mentorship of **Prof. [Tao Lin](https://en.westlake.edu.cn/faculty/tao-lin.html)** and **Fellow of the Royal Society of Chemistry, Prof. [Hongyu Chen](https://en.westlake.edu.cn/faculty/hongyu-chen.html)**. 
 
-He is currently focusing on **Language Models in Natural Science**. He looks forward to long-term cooperation and extensive exchanges on **<u>Natural Language Processing for Science</u>**.  
+He is currently focusing on **Language Systems in Natural Science**. He looks forward to long-term cooperation and extensive exchanges on **<u>Natural Language Processing for Science</u>**. 
 
 <br/>
