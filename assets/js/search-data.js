@@ -30,7 +30,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-person-and-mural",
+        },{id: "post-materials-science-the-inspiring-intersection-with-generative-ai",
+      
+        title: 'Materials Science: The Inspiring Intersection with Generative AI <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://pub.aimind.so/materials-science-the-inspiring-intersection-with-generative-ai-8bd40a1c5b03?source=rss-f64fe619ecf4------2", "_blank");
+        
+      },
+    },{id: "post-physicochemical-principles-in-material-synthesis-from-language-modeling-perspective",
+      
+        title: 'Physicochemical Principles in Material Synthesis: From Language Modeling Perspective <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://pub.aimind.so/physicochemical-principles-in-material-synthesis-from-language-modeling-perspective-ff12c28ac1fc?source=rss-f64fe619ecf4------2", "_blank");
+        
+      },
+    },{id: "post-person-and-mural",
       
         title: 'Person and Mural <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
