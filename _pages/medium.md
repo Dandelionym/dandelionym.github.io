@@ -13,28 +13,36 @@ nav_order: 2
 <!-- Custom styling for Medium posts -->
 <style>
   .post {
-    width: 820px;
+    width: 100%;
+    max-width: 820px;
     margin: 0 auto;
+    padding: 0 15px;
   }
 
   nav > .container {
-    width: 820px !important;
+    width: 100% !important;
+    max-width: 820px !important;
     margin: 0 auto;
+    padding: 0 15px;
   }
 
   .publications-container {
+    width: 100%;
     max-width: 820px;
     margin: 0 auto;
+    padding: 0 15px;
   }
+  
   .year-divider {
     position: relative;
     margin-top: 3rem;
     margin-bottom: 2rem;
     text-align: right;
-    color: rgba(0, 0, 0, 0.15);
+    color: rgba(0, 0, 0, 0.08);
     font-size: 2.5rem;
     font-weight: bold;
   }
+  
   .year-divider::after {
     content: "";
     position: absolute;
@@ -44,23 +52,28 @@ nav_order: 2
     height: 1px;
     background-color: rgba(0, 0, 0, 0.1);
   }
+  
   .medium-header {
     background: linear-gradient(135deg, #6b21a8 0%, #3b82f6 100%);
     padding: 2rem 0;
     margin-bottom: 2rem;
     border-radius: 0.5rem;
     color: white;
-    width: 820px !important;
+    width: 100% !important;
+    max-width: 820px !important;
     margin: 0 auto;
     margin-bottom: 20px;
   }
+  
   .medium-header-content {
+    width: 100%;
     max-width: 820px;
     margin: 0 auto;
     position: relative;
     padding: 0 1rem;
     color: white !important;
   }
+  
   .medium-header::before {
     content: "";
     position: absolute;
@@ -72,11 +85,13 @@ nav_order: 2
     border-radius: 0.5rem;
     opacity: 0.5;
   }
+  
   .medium-post-item {
     margin-bottom: 2rem;
     display: flex;
     align-items: flex-start;
   }
+  
   .medium-post-image-container {
     width: 150px;
     height: 150px;
@@ -89,32 +104,38 @@ nav_order: 2
     align-items: center;
     justify-content: center;
   }
+  
   .medium-post-image {
     width: 100%;
     height: 100%;
     object-fit: cover;
   }
+  
   .medium-post-content {
     flex-grow: 1;
   }
+  
   .medium-post-title {
     margin-bottom: 0.5rem;
     font-weight: 600;
   }
+  
   .medium-post-title a {
     color: #212529;
     text-decoration: none;
   }
+  
   .medium-post-title a:hover {
     color: #0d6efd;
-    text-decoration: none !important;
-    
+    text-decoration: none !important;  
   }
+  
   .medium-post-meta {
     font-size: 0.85rem;
     color: #6c757d;
     margin-bottom: 0.75rem;
   }
+  
   .medium-post-excerpt {
     margin-bottom: 0.75rem;
     overflow: hidden;
@@ -122,6 +143,7 @@ nav_order: 2
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
   }
+  
   .medium-btn {
     padding: 0.25rem 0.5rem;
     font-size: 0.875rem;
@@ -133,21 +155,25 @@ nav_order: 2
     margin-bottom: 0.5rem;
     text-decoration: none;
   }
+  
   .medium-btn-outline {
     border: 1px solid #dee2e6;
     color: #495057;
     text-decoration: none;
   }
+  
   .medium-btn-outline:hover {
     background-color: #f8f9fa;
     color: #212529;
     text-decoration: none !important;
   }
+  
   .medium-btn-primary {
     background-color: #b788de;
     color: white;
     text-decoration: none !important;
   }
+  
   .medium-btn-primary:hover {
     background-color: #a357de;
     color: white;
@@ -159,9 +185,12 @@ nav_order: 2
   }
 
   .search-container {
+    width: 100%;
     max-width: 820px;
     margin: 0 auto 2rem auto;
+    padding: 0 15px;
   }
+  
   .search-box {
     width: 100%;
     padding: 0.75rem 1rem;
@@ -169,37 +198,139 @@ nav_order: 2
     border-radius: 0.25rem;
     font-size: 1rem;
   }
+  
   #back-to-top {
     position: fixed;
     bottom: 20px;
     right: 20px;
     display: none;
     z-index: 999;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #b788de;
+    color: white;
+    border: none;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
   }
+  
+  /* Enhanced Responsive Styles */
   @media (max-width: 767.98px) {
     .medium-post-item {
       flex-direction: column;
     }
+    
     .medium-post-image-container {
       width: 100%;
-      height: 200px;
+      height: 180px;
       margin-right: 0;
       margin-bottom: 1rem;
+    }
+    
+    .medium-post-title {
+      font-size: 1.1rem;
+    }
+    
+    .medium-post-excerpt {
+      -webkit-line-clamp: 4;
+      font-size: 0.95rem;
+    }
+    
+    .medium-btn {
+      padding: 0.375rem 0.75rem;
+      font-size: 0.95rem;
+      margin-right: 0.3rem;
+    }
+    
+    .year-divider {
+      font-size: 2rem;
+      margin-top: 2.5rem;
+      margin-bottom: 1.5rem;
+    }
+    
+    .medium-header {
+      border-radius: 0.25rem;
+      padding: 1.5rem 0;
+    }
+    
+    #back-to-top {
+      bottom: 15px;
+      right: 15px;
+    }
+  }
+  
+  /* Small mobile devices */
+  @media (max-width: 575.98px) {
+    .medium-post-item {
+      padding: 0;
+    }
+    
+    .medium-post-image-container {
+      height: 160px;
+    }
+    
+    .medium-post-title {
+      font-size: 1rem;
+    }
+    
+    .medium-post-excerpt {
+      font-size: 0.9rem;
+      -webkit-line-clamp: 3;
+    }
+    
+    .medium-btn {
+      padding: 0.25rem 0.6rem;
+      font-size: 0.875rem;
+      margin-right: 0.25rem;
+    }
+    
+    .medium-post-meta {
+      font-size: 0.8rem;
+    }
+    
+    .year-divider {
+      font-size: 1.8rem;
+      margin-top: 2rem;
+    }
+    
+    .search-box {
+      padding: 0.6rem 0.8rem;
+      font-size: 0.95rem;
+    }
+    
+    /* Stack action buttons on very small screens */
+    .medium-actions {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    
+    .medium-actions .medium-btn {
+      margin-bottom: 0.5rem;
+    }
+  }
+  
+  /* Fix for Safari and iOS devices */
+  @supports (-webkit-touch-callout: none) {
+    .medium-post-excerpt {
+      display: block;
+      max-height: 4.5em;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
   }
 </style>
 
 <div class="medium-header position-relative">
   <div class="medium-header-content">
-    <p class="lead mb-0" style="color: white; text-align: center">A Journey Towards <b>Hope</b>. </p>
+    <p class="lead mb-0" style="color: white; text-align: center"><i style="font-weight: 100; color: white">A Journey Towards</i> <b style="font-family: Academicons; font-size: 2rem">Hope</b>. </p>
   </div>
 </div>
 
-<div class="search-container px-3">
+<div class="search-container">
   <input type="text" class="search-box" id="medium-search" placeholder="Type to filter articles...">
 </div>
 
-<div class="publications-container px-3">
+<div class="publications-container">
   {% assign posts_by_year = site.data.medium_posts | group_by_exp: "post", "post.date | date: '%Y'" | sort: "name" | reverse %}
   
   {% for year in posts_by_year %}
@@ -228,7 +359,7 @@ nav_order: 2
             {{ post.content | strip_html | truncatewords: 28 }}
           </div>
           
-          <div>
+          <div class="medium-actions">
             <a href="{{ post.url }}" target="_blank" class="medium-btn medium-btn-primary">
               <i class="fab fa-medium me-1"></i> Read
             </a>
@@ -247,6 +378,9 @@ nav_order: 2
   {% endfor %}
 </div>
 
+<button id="back-to-top" aria-label="Back to top">
+  <i class="fas fa-arrow-up"></i>
+</button>
 
 <!-- JavaScript for search functionality and back to top button -->
 <script>
@@ -254,18 +388,47 @@ nav_order: 2
     // Search functionality
     const searchBox = document.getElementById('medium-search');
     const postItems = document.querySelectorAll('.medium-post-item');
+    const yearDividers = document.querySelectorAll('.year-divider');
     
     searchBox.addEventListener('keyup', function() {
       const searchTerm = this.value.toLowerCase();
       
+      // Keep track of which years have visible posts
+      const visibleYears = {};
+      
       postItems.forEach(item => {
         const title = item.querySelector('.medium-post-title').textContent.toLowerCase();
         const content = item.querySelector('.medium-post-excerpt').textContent.toLowerCase();
+        const yearDivider = item.previousElementSibling;
+        let yearText = '';
+        
+        // Find the year for this post
+        let element = item;
+        while(element) {
+          if(element.classList && element.classList.contains('year-divider')) {
+            yearText = element.textContent.trim();
+            break;
+          }
+          element = element.previousElementSibling;
+        }
         
         if (title.includes(searchTerm) || content.includes(searchTerm)) {
           item.style.display = '';
+          if(yearText) {
+            visibleYears[yearText] = true;
+          }
         } else {
           item.style.display = 'none';
+        }
+      });
+      
+      // Hide year dividers with no visible posts
+      yearDividers.forEach(divider => {
+        const year = divider.textContent.trim();
+        if(visibleYears[year]) {
+          divider.style.display = '';
+        } else {
+          divider.style.display = 'none';
         }
       });
     });
@@ -287,6 +450,13 @@ nav_order: 2
         behavior: 'smooth'
       });
     });
+    
+    // Fix for iOS overscroll behavior
+    document.body.addEventListener('touchmove', function(e) {
+      if (document.documentElement.scrollTop === 0 && document.body.scrollTop === 0) {
+        e.preventDefault();
+      }
+    }, { passive: false });
   });
 </script>
 
