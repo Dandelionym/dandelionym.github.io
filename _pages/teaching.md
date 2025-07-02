@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 
-#### Current position
+
 Teaching Assistant, Spring 2025
-- Course: _Introduction to Dialectics of Nature_
+- Course: _**Introduction to Dialectics of Nature**_
 - Institution: Westlake University & Zhejiang University
