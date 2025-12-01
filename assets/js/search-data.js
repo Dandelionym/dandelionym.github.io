@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-materials-science-the-inspiring-intersection-with-generative-ai",
+        },{id: "post-principleflow-a-novel-paradigm-of-agentic-scientific-discovery",
+      
+        title: 'PrincipleFlow: A Novel Paradigm of Agentic Scientific Discovery <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://pub.aimind.so/principleflow-a-novel-paradigm-of-agentic-scientific-discovery-0416205de95f?source=rss-f64fe619ecf4------2", "_blank");
+        
+      },
+    },{id: "post-materials-science-the-inspiring-intersection-with-generative-ai",
       
         title: 'Materials Science: The Inspiring Intersection with Generative AI <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
