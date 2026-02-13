@@ -113,8 +113,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-recent-work-has-been-accepted-to-the-neurips-ai4mat-workshop",
           title: 'Our recent work has been accepted to the NeurIPS AI4Mat workshop!',
           description: "",
-          section: "News",},{id: "news-we-are-currently-offering-one-position-for-visiting-student-with-a-background-in-nlp",
-          title: '🔥 We are currently offering one position for visiting student with a background...',
+          section: "News",},{id: "news-announcing-our-latest-work-pievo-a-principle-evolvable-framework-for-autonomous-scientific-discovery-code-is-publicly-available-at-our-github",
+          title: 'Announcing our latest work PiEvo, a principle-evolvable framework for autonomous scientific discovery! Code...',
           description: "",
           section: "News",},{
         id: 'social-email',
