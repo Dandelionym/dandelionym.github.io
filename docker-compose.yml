@@ -12,14 +12,12 @@ services:
     #     GROUPNAME: # id -gn
     #     USERID: # id -u
     #     USERNAME: # echo $USER
-    ports:
-      - 8080:8080
-      - 35729:35729
+    network_mode: "host"
     volumes:
       - .:/srv/jekyll
     environment:
-      - HTTP_PROXY=http://172.17.0.1:7890
-      - HTTPS_PROXY=http://172.17.0.1:7890
-      - http_proxy=http://172.17.0.1:7890
-      - https_proxy=http://172.17.0.1:7890
+      - HTTP_PROXY=http://127.0.0.1:7890
+      - HTTPS_PROXY=http://127.0.0.1:7890
+      - http_proxy=http://127.0.0.1:7890
+      - https_proxy=http://127.0.0.1:7890
       - NO_PROXY=localhost,127.0.0.1

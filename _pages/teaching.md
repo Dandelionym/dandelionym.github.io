@@ -17,6 +17,14 @@ Teaching Assistant, Fall 2025
 - Course: _**Introduction to Dialectics of Nature**_
 - Institution: Zhejiang University
 
-(Organizing) Teaching Assistant, Fall 2025
+Teaching Assistant, Fall 2025
 - Course: _**Machine Learning**_
 - Institution: Westlake University
+
+Teaching Assistant, Spring 2026
+- Course: _**Machine Learning**_
+- Institution: Westlake University
+
+Teaching Assistant, Spring 2026
+- Course: _**Critical Thinking**_
+- Institution: Zhejiang University

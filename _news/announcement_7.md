@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-01-10
+date: 2026-02-06
 inline: true
 related_posts: false
 ---
 
-🔥 We are currently offering **one** position for visiting student with a background in _NLP_ !
+Announcing our latest work [PiEvo](https://arxiv.org/abs/2602.06448), a principle-evolvable framework for autonomous scientific discovery! Code is publicly available at our [GitHub](https://github.com/amair-lab/PiEvo).
