@@ -6,7 +6,7 @@ subtitle: <a href='https://westlake.edu.cn/'><b>Westlake University</b></a>. No.
 
 profile:
   align: right
-  image: my_photo.jpeg
+  image: open-me.png
   image_circular: false # crops the image to make it circular
   more_info: >
 
