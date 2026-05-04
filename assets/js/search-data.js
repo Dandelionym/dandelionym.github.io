@@ -116,6 +116,9 @@ ninja.data = [{
           section: "News",},{id: "news-announcing-our-latest-work-pievo-a-principle-evolvable-framework-for-autonomous-scientific-discovery-code-is-publicly-available-at-our-github",
           title: 'Announcing our latest work PiEvo, a principle-evolvable framework for autonomous scientific discovery! Code...',
           description: "",
+          section: "News",},{id: "news-our-latest-work-pievo-was-accepted-at-this-year-s-icml-2026-conference",
+          title: 'Our latest work PiEvo was accepted at this year’s ICML 2026 conference!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
