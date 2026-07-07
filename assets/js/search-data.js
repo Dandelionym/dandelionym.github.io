@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-",
-          title: "",
-          description: "",
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "Teaching assistant experience since 2025 (PhD candidate)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
