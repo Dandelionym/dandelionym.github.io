@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: 
-description: 
+title: Teaching
+description: Teaching assistant experience since 2025 (PhD candidate)
 nav: true
 nav_order: 6
 ---
