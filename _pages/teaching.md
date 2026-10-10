@@ -155,6 +155,14 @@ nav_order: 6
   </div>
 </div>
 
+<div class="teaching-item">
+  <div class="teaching-term">Fall 2026</div>
+  <div>
+    <div class="teaching-course">Machine Learning</div>
+    <div class="teaching-meta">Westlake University</div>
+  </div>
+</div>
+
 </div>
 
 </section>

@@ -1,10 +1,33 @@
 ---
 ---
+      author={Yingming Pu and Hongyu Chen and Tao Lin},
+      year={2026},
+      eprint={2609.35315},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={}, 
+
+@inproceedings{pu2026coevolve,
+  title       = {Collaborative Principle Evolution via Evidence Transfer for Scientific Discovery},
+  abstract    = {Large Language Model (LLM)-based agents promise to automate scientific discovery, yet exploring the vast hypothesis space remains costly. Existing principle-evolution methods accelerate this loop, but operate sequentially, which caps exploration breadth and wastes wall-clock time on challenging problems. To address this, we formulate collaborative scientific discovery as evidence transfer between parallel principle-evolution branches. We present COEVOLVE, which realizes this transfer through a coordination core over parallel branches. By integrating value-of-information-gated routing and context-discounted likelihood injection, COEVOLVE enables branches to collaborate through shared measurements while keeping their principle posteriors separate. Across six scientific-discovery tasks under a matched evaluation budget, COEVOLVE attains a mean solution quality of 66.5% versus 57.0% for single-branch principle evolution, with a 1.80x mean wall-clock speedup on the GPT-5.6-Terra backbone; on five auto-research tasks delegated to an autonomous research harness, it is the only arm whose mean stays above the published SOTA anchor on every task. These results establish when evidence sharing accelerates parallel discovery and when transfer safeguards are necessary to limit negative or inert transfers.},
+  author      = {Yingming Pu and Hongyu Chen† and Tao Lin†},
+  annotation  = {† Corresponding author},
+  booktitle   = {arXiv},
+  year        = {2026},
+  month       = {9},
+  url         = {https://arxiv.org/abs/2609.35315},
+  preview     = {coevolve.png},
+  pdf         = {https://arxiv.org/abs/2609.35315},
+  abbr        = {Preprint},
+  bibtex_show = {true},
+  selected    = {true}
+}
+
 
 @inproceedings{pu2026pievo,
   title       = {Principle-Evolvable Scientific Discovery via Uncertainty Minimization},
   abstract    = {Large Language Model (LLM)-based scientific agents have accelerated scientific discovery, yet they often suffer from significant inefficiencies due to adherence to fixed initial priors. Existing approaches predominantly operate within a static hypothesis space, which restricts the discovery of novel phenomena, resulting in computational waste when baseline theories fail. To address this, we propose shifting the focus from searching hypotheses to evolving the underlying scientific principles. We present PiEvo, a principle-evolvable framework that treats scientific discovery as Bayesian optimization over an expanding principle space. By integrating Information-Directed Hypothesis Selection via Gaussian Process and an anomaly-driven augmentation mechanism, PiEvo enables agents to autonomously refine their theoretical worldview. Evaluation across four benchmarks demonstrates that PiEvo (1) achieves an average solution quality of up to 90.81%~93.15%, representing a 29.7%~31.1% improvement over the state-of-the-art, (2) attains an 83.3% speedup in convergence step via significantly reduced sample complexity by optimizing the compact principle space, and (3) maintains robust performance across diverse scientific domains and LLM backbones. <br> <b>(Remark: An Unified framework with super efficient theoretical guarantee for automated scientific discovery. )</b>},
-  author      = {Yingming Pu and Tao Lin† and Hongyu Chen},
+  author      = {Yingming Pu and Hongyu Chen† and Tao Lin†},
   annotation  = {† Corresponding author},
   booktitle   = {arXiv},
   year        = {2026},
@@ -128,7 +151,7 @@
   annotation  = {† Corresponding author<br>* Work done at YNU},
   abbr        = {Preprint},
   preview     = {cvdgm.png},
-  bibtex_show = {true},
+  bibtex_show = {false},
   pdf         = {https://arxiv.org/pdf/2210.00704},
   year        = {2022}
 }
