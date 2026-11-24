@@ -1,0 +1,231 @@
+- generic [active] [ref=f15e1]:
+  - banner:
+    - navigation [ref=f15e2]:
+      - list [ref=f15e5]:
+        - listitem [ref=f15e6]:
+          - link "Information (current)" [ref=f15e7] [cursor=pointer]:
+            - /url: /
+            - text: Information
+            - generic [ref=f15e8]: (current)
+        - listitem [ref=f15e9]:
+          - link "Medium" [ref=f15e10] [cursor=pointer]:
+            - /url: /medium/
+        - listitem [ref=f15e11]:
+          - link "Publications" [ref=f15e12] [cursor=pointer]:
+            - /url: /publications/
+        - listitem [ref=f15e13]:
+          - link "Teaching" [ref=f15e14] [cursor=pointer]:
+            - /url: /teaching/
+        - listitem [ref=f15e15]:
+          - button "⌘ k " [ref=f15e16] [cursor=pointer]:
+            - generic [ref=f15e17]:
+              - text: ⌘ k
+              - generic [ref=f15e18]: 
+    - progressbar [ref=f15e19]
+  - main [ref=f15e20]:
+    - generic [ref=f15e21]:
+      - generic [ref=f15e22]:
+        - heading "Mellen Y. Pu" [level=1] [ref=f15e23]
+        - paragraph [ref=f15e24]:
+          - link "Westlake University" [ref=f15e25] [cursor=pointer]:
+            - /url: https://westlake.edu.cn/
+          - text: . No.600 Dunyu Road, Hangzhou, Zhejiang, China.
+      - article [ref=f15e26]:
+        - generic [ref=f15e27]:
+          - figure [ref=f15e28]:
+            - img "me.png" [ref=f15e30]
+          - generic [ref=f15e31]:
+            - generic [ref=f15e32]: Ph.D. Candidate
+            - img "dandelionym" [ref=f15e34]
+        - generic [ref=f15e35]:
+          - paragraph [ref=f15e36]: “Through rigorous science, the world aligns; I cherish unveiling its designs. “
+          - paragraph [ref=f15e37]: —— Mellen Y. Pu
+          - heading "About" [level=3] [ref=f15e38]
+          - paragraph [ref=f15e39]:
+            - text: “How can AI discover new scientific mechanisms?” This is the fundamental question driving his research. Mellen Y. Pu is the pioneer of the
+            - link "Principle-Aware" [ref=f15e40] [cursor=pointer]:
+              - /url: ""
+            - text: paradigm for autonomous scientific research.
+          - paragraph [ref=f15e41]:
+            - text: He was the first to inaugurate
+            - strong [ref=f15e42]: scientific principles
+            - text: as optimizable objects within multi-agent systems for
+            - emphasis [ref=f15e43]: scientific discovery
+            - text: ", treating them as the intermedium for discovery. This led to a novel method that iteratively updates hypotheses by accumulating experimental evidence to"
+            - emphasis [ref=f15e44]: optimize
+            - text: underlying principles
+            - link "(Pu et al., 2025)" [ref=f15e45] [cursor=pointer]:
+              - /url: https://arxiv.org/abs/2505.15047
+            - text: . He subsequently expanded this into a unified framework based on dynamic principle space evolution
+            - link "(Pu et al., 2026)" [ref=f15e46] [cursor=pointer]:
+              - /url: https://arxiv.org/abs/2602.06448
+            - text: and additionally with collaborative architecture
+            - link "(Pu et al., 2026)" [ref=f15e47] [cursor=pointer]:
+              - /url: https://arxiv.org/abs/2609.35315
+            - text: . This system not only leverages existing scientific knowledge for exploration but also employs information-theoretic approaches to update the principle space itself, enabling anomaly-driven principle augmentation.
+          - paragraph [ref=f15e48]:
+            - text: Mellen Y. Pu is a Ph.D. candidate in the School of Engineering at Westlake University, under the joint mentorship of
+            - strong [ref=f15e49]:
+              - text: Prof.
+              - link "Tao Lin" [ref=f15e50] [cursor=pointer]:
+                - /url: https://en.westlake.edu.cn/faculty/tao-lin.html
+            - text: and
+            - strong [ref=f15e51]:
+              - text: Fellow of the Royal Society of Chemistry, Prof.
+              - link "Hongyu Chen" [ref=f15e52] [cursor=pointer]:
+                - /url: https://en.westlake.edu.cn/faculty/hongyu-chen.html
+            - text: . He is currently focusing on
+            - strong [ref=f15e53]: Principle-Aware Scientific Discovery
+            - text: . He looks forward to long-term cooperation and extensive exchanges on
+            - strong [ref=f15e54]: Agentic Learning and Evolving, Self-Evolving Agents and Long-Term Scientific Discovery
+            - text: in diverse topics.
+          - paragraph [ref=f15e55]
+        - heading [level=4] [ref=f15e56]:
+          - link "News" [ref=f15e57] [cursor=pointer]:
+            - /url: /news/
+        - table [ref=f15e60]:
+          - rowgroup [ref=f15e61]:
+            - row [ref=f15e62]:
+              - rowheader "May 01, 2026" [ref=f15e63]
+              - cell [ref=f15e64]:
+                - text: Our latest work
+                - link "PiEvo" [ref=f15e65] [cursor=pointer]:
+                  - /url: https://arxiv.org/abs/2602.06448
+                - text: was accepted at this year’s
+                - link "ICML 2026" [ref=f15e66] [cursor=pointer]:
+                  - /url: https://icml.cc/
+                - text: conference!
+            - row [ref=f15e67]:
+              - rowheader "Feb 06, 2026" [ref=f15e68]
+              - cell [ref=f15e69]:
+                - text: Announcing our latest work
+                - link "PiEvo" [ref=f15e70] [cursor=pointer]:
+                  - /url: https://arxiv.org/abs/2602.06448
+                - text: ", a principle-evolvable framework for autonomous scientific discovery! Code is publicly available at our"
+                - link "GitHub" [ref=f15e71] [cursor=pointer]:
+                  - /url: https://github.com/amair-lab/PiEvo
+                - text: .
+            - row [ref=f15e72]:
+              - rowheader "Nov 04, 2024" [ref=f15e73]
+              - cell [ref=f15e74]:
+                - text: Our recent
+                - link "work" [ref=f15e75] [cursor=pointer]:
+                  - /url: https://openreview.net/pdf?id=I6jYRbaai8
+                - text: has been accepted to the NeurIPS AI4Mat workshop!
+            - row [ref=f15e76]:
+              - rowheader "Sep 29, 2023" [ref=f15e77]
+              - cell [ref=f15e78]:
+                - text: One
+                - link "paper" [ref=f15e79] [cursor=pointer]:
+                  - /url: https://pubmed.ncbi.nlm.nih.gov/37774750/
+                - text: was accepted to
+                - emphasis [ref=f15e80]: Advanced Materials
+                - text: (IF=32.086).
+        - heading [level=4] [ref=f15e81]:
+          - link "Selected Publications" [ref=f15e82] [cursor=pointer]:
+            - /url: /publications/
+        - list [ref=f15e84]:
+          - listitem [ref=f15e85]:
+            - generic [ref=f15e86]:
+              - generic [ref=f15e87]:
+                - generic [ref=f15e88]: Preprint
+                - figure [ref=f15e89]:
+                  - img "coevolve.png" [ref=f15e91]
+              - generic [ref=f15e92]:
+                - generic [ref=f15e93]: Collaborative Principle Evolution via Evidence Transfer for Scientific Discovery
+                - generic [ref=f15e94]:
+                  - emphasis [ref=f15e95]: Yingming Pu
+                  - text: ", Hongyu Chen"
+                  - superscript [ref=f15e96]: †
+                  - text: ", and Tao Lin"
+                  - superscript [ref=f15e97]: †
+                  - generic [ref=f15e98]: 
+                - generic [ref=f15e99]:
+                  - emphasis [ref=f15e100]: In arXiv
+                  - text: ", Sep 2026"
+                - generic [ref=f15e101]:
+                  - button "Abs" [ref=f15e102] [cursor=pointer]
+                  - button "Bib" [ref=f15e103] [cursor=pointer]
+                  - button "PDF" [ref=f15e104] [cursor=pointer]
+                - paragraph [ref=f15e106]: Large Language Model (LLM)-based agents promise to automate scientific discovery, yet exploring the vast hypothesis space remains costly. Existing principle-evolution methods accelerate this loop, but operate sequentially, which caps exploration breadth and wastes wall-clock time on challenging problems. To address this, we formulate collaborative scientific discovery as evidence transfer between parallel principle-evolution branches. We present COEVOLVE, which realizes this transfer through a coordination core over parallel branches. By integrating value-of-information-gated routing and context-discounted likelihood injection, COEVOLVE enables branches to collaborate through shared measurements while keeping their principle posteriors separate. Across six scientific-discovery tasks under a matched evaluation budget, COEVOLVE attains a mean solution quality of 66.5% versus 57.0% for single-branch principle evolution, with a 1.80x mean wall-clock speedup on the GPT-5.6-Terra backbone; on five auto-research tasks delegated to an autonomous research harness, it is the only arm whose mean stays above the published SOTA anchor on every task. These results establish when evidence sharing accelerates parallel discovery and when transfer safeguards are necessary to limit negative or inert transfers.
+                - figure [ref=f15e107]:
+                  - generic [ref=f15e108]:
+                    - code [ref=f15e110]: "@inproceedings{pu2026coevolve, title = {Collaborative Principle Evolution via Evidence Transfer for Scientific Discovery}, author = {Pu, Yingming and Chen, Hongyu and Lin, Tao}, booktitle = {arXiv}, year = {2026}, month = sep, url = {https://arxiv.org/abs/2609.35315}, }"
+                    - button "Copy code to clipboard" [ref=f15e111] [cursor=pointer]:
+                      - generic [ref=f15e112]: 
+          - listitem [ref=f15e113]:
+            - generic [ref=f15e114]:
+              - generic [ref=f15e115]:
+                - generic [ref=f15e116]: ICML 2026
+                - figure [ref=f15e117]:
+                  - img "pievo.png" [ref=f15e119]
+              - generic [ref=f15e120]:
+                - generic [ref=f15e121]: Principle-Evolvable Scientific Discovery via Uncertainty Minimization
+                - generic [ref=f15e122]:
+                  - emphasis [ref=f15e123]: Yingming Pu
+                  - text: ", Hongyu Chen"
+                  - superscript [ref=f15e124]: †
+                  - text: ", and Tao Lin"
+                  - superscript [ref=f15e125]: †
+                  - generic [ref=f15e126]: 
+                - generic [ref=f15e127]:
+                  - emphasis [ref=f15e128]: In International Conference on Machine Learning
+                  - text: ", Sep 2026"
+                - generic [ref=f15e129]:
+                  - button "Abs" [ref=f15e130] [cursor=pointer]
+                  - button "Bib" [ref=f15e131] [cursor=pointer]
+                  - button "PDF" [ref=f15e132] [cursor=pointer]
+                  - button "Code" [ref=f15e133] [cursor=pointer]
+                - paragraph [ref=f15e135]: "Large Language Model (LLM)-based scientific agents have accelerated scientific discovery, yet they often suffer from significant inefficiencies due to adherence to fixed initial priors. Existing approaches predominantly operate within a static hypothesis space, which restricts the discovery of novel phenomena, resulting in computational waste when baseline theories fail. To address this, we propose shifting the focus from searching hypotheses to evolving the underlying scientific principles. We present PiEvo, a principle-evolvable framework that treats scientific discovery as Bayesian optimization over an expanding principle space. By integrating Information-Directed Hypothesis Selection via Gaussian Process and an anomaly-driven augmentation mechanism, PiEvo enables agents to autonomously refine their theoretical worldview. Evaluation across four benchmarks demonstrates that PiEvo (1) achieves an average solution quality of up to 90.81% 93.15%, representing a 29.7% 31.1% improvement over the state-of-the-art, (2) attains an 83.3% speedup in convergence step via significantly reduced sample complexity by optimizing the compact principle space, and (3) maintains robust performance across diverse scientific domains and LLM backbones. (Remark: An Unified framework with super efficient theoretical guarantee for automated scientific discovery. )"
+                - figure [ref=f15e136]:
+                  - generic [ref=f15e137]:
+                    - code [ref=f15e139]: "@inproceedings{pu2026pievo, title = {Principle-Evolvable Scientific Discovery via Uncertainty Minimization}, author = {Pu, Yingming and Chen, Hongyu and Lin, Tao}, booktitle = {International Conference on Machine Learning}, year = {2026}, url = {https://arxiv.org/abs/2602.06448}, }"
+                    - button "Copy code to clipboard" [ref=f15e140] [cursor=pointer]:
+                      - generic [ref=f15e141]: 
+          - listitem [ref=f15e142]:
+            - generic [ref=f15e143]:
+              - generic [ref=f15e144]:
+                - generic [ref=f15e145]: AAMAS 2026
+                - figure [ref=f15e146]:
+                  - img "piflow.png" [ref=f15e148]
+              - generic [ref=f15e149]:
+                - generic [ref=f15e150]: "PiFlow: Principle-aware Scientific Discovery with Multi-Agent Collaboration"
+                - generic [ref=f15e151]:
+                  - emphasis [ref=f15e152]: Yingming Pu
+                  - text: ", Tao Lin"
+                  - superscript [ref=f15e153]: †
+                  - text: ", and Hongyu Chen"
+                  - generic [ref=f15e154]: 
+                - generic [ref=f15e155]:
+                  - emphasis [ref=f15e156]: In arXiv
+                  - text: ", May 2025"
+                - generic [ref=f15e157]:
+                  - button "Awarded" [ref=f15e158] [cursor=pointer]
+                  - button "Abs" [ref=f15e159] [cursor=pointer]
+                  - button "Bib" [ref=f15e160] [cursor=pointer]
+                  - button "PDF" [ref=f15e161] [cursor=pointer]
+                  - button "Code" [ref=f15e162] [cursor=pointer]
+                - generic [ref=f15e163]:
+                  - paragraph
+                  - paragraph [ref=f15e164]:
+                    - text: 🏅
+                    - strong [ref=f15e165]: Best Poster Award
+                    - text: at Westlake International Symposium in Engineering (2025)
+                - paragraph [ref=f15e167]: "Large Language Model (LLM)-based multi-agent systems (MAS) demonstrate remarkable potential for scientific discovery. Existing approaches, however, often automate scientific discovery using predefined workflows that lack rationality constraints. This often leads to aimless hypothesizing and a failure to consistently link hypotheses with evidence, thereby hindering systematic uncertainty reduction. Overcoming these limitations fundamentally requires systematic uncertainty reduction. We introduce \\textttPiFlow, an information-theoretical framework, treating automated scientific discovery as a structured uncertainty reduction problem guided by principles (e.g., scientific laws). In evaluations across three distinct scientific domains – discovering nanomaterial structures, bio-molecules, and superconductor candidates with targeted properties – our method significantly improves discovery efficiency, reflected by a 73.55% increase in the Area Under the Curve (AUC) of property values versus exploration steps, and enhances solution quality by 94.06% compared to a vanilla agent system. Overall, \\textttPiFlow serves as a Plug-and-Play method, establishing a novel paradigm shift in highly efficient automated scientific discovery, paving the way for more robust and accelerated AI-driven research. (Remark: An Unified framework with strong theoretical guarantee for scientific discovery. )"
+                - figure [ref=f15e168]:
+                  - generic [ref=f15e169]:
+                    - code [ref=f15e171]: "@inproceedings{pu2025piflow, title = {PiFlow: Principle-aware Scientific Discovery with Multi-Agent Collaboration}, author = {Pu, Yingming and Lin, Tao and Chen, Hongyu}, booktitle = {arXiv}, year = {2025}, month = may, url = {https://arxiv.org/abs/2505.15047}, }"
+                    - button "Copy code to clipboard" [ref=f15e172] [cursor=pointer]:
+                      - generic [ref=f15e173]: 
+        - generic [ref=f15e175]:
+          - link "" [ref=f15e176] [cursor=pointer]:
+            - /url: mailto:%77%69%61%73.%79%6D@%67%6D%61%69%6C.%63%6F%6D
+          - link "" [ref=f15e178] [cursor=pointer]:
+            - /url: https://github.com/Dandelionym
+          - link "" [ref=f15e180] [cursor=pointer]:
+            - /url: https://medium.com/@yingmingpu
+          - link "" [ref=f15e182] [cursor=pointer]:
+            - /url: https://twitter.com/CassielYM
+  - contentinfo [ref=f15e184]:
+    - generic [ref=f15e185]: "© Copyright 2026 Mellen Y. Pu. Last updated: November 24, 2026."
+  - generic [ref=f15e186] [cursor=pointer]

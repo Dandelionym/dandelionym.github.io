@@ -1,0 +1,105 @@
+[     125ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/coevolve-480.webp:1
+[     171ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/piflow-480.webp:1
+[     174ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:377:257)
+[     186ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:657:253)
+[    1103ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=82EMthspz3AUeyGM3GhGSmn7TdMuODmwjE8ZrK2BcL8&ct=000000&co=ffffff&cmo=478e3b&cmn=35c980:1
+[    6228ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/coevolve-480.webp:1
+[    6232ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/piflow-480.webp:1
+[    6260ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:377:257)
+[    6260ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:656:253)
+[    7210ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=82EMthspz3AUeyGM3GhGSmn7TdMuODmwjE8ZrK2BcL8&ct=000000&co=ffffff&cmo=478e3b&cmn=35c980:1
+[    8126ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/coevolve-480.webp:1
+[    8128ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/piflow-480.webp:1
+[    8152ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:377:257)
+[    8152ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:656:253)
+[    8696ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=82EMthspz3AUeyGM3GhGSmn7TdMuODmwjE8ZrK2BcL8&ct=000000&co=ffffff&cmo=478e3b&cmn=35c980:1
+[   24443ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/coevolve-480.webp:1
+[   24455ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/piflow-480.webp:1
+[   24482ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:377:257)
+[   24482ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:656:253)
+[   25074ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=82EMthspz3AUeyGM3GhGSmn7TdMuODmwjE8ZrK2BcL8&ct=000000&co=ffffff&cmo=478e3b&cmn=35c980:1
+[   41615ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/coevolve-480.webp:1
+[   41648ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:377:257)
+[   41668ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/piflow-480.webp:1
+[   41674ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:656:253)
+[   42234ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=82EMthspz3AUeyGM3GhGSmn7TdMuODmwjE8ZrK2BcL8&ct=000000&co=ffffff&cmo=478e3b&cmn=35c980:1
+[   48787ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/coevolve-480.webp:1
+[   48799ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:377:257)
+[   48792ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/piflow-480.webp:1
+[   48799ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:656:253)
+[   49438ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=82EMthspz3AUeyGM3GhGSmn7TdMuODmwjE8ZrK2BcL8&ct=000000&co=ffffff&cmo=478e3b&cmn=35c980:1
+[   57817ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/coevolve-480.webp:1
+[   57834ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/piflow-480.webp:1
+[   57910ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:377:257)
+[   57914ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:656:253)
+[   59012ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=82EMthspz3AUeyGM3GhGSmn7TdMuODmwjE8ZrK2BcL8&ct=000000&co=ffffff&cmo=478e3b&cmn=35c980:1
+[   74542ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/coevolve-480.webp:1
+[   74552ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/piflow-480.webp:1
+[   74569ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:377:257)
+[   74569ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:656:253)
+[   75139ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=82EMthspz3AUeyGM3GhGSmn7TdMuODmwjE8ZrK2BcL8&ct=000000&co=ffffff&cmo=478e3b&cmn=35c980:1
+[   90923ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/coevolve-480.webp:1
+[   90931ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/piflow-480.webp:1
+[   90948ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:377:257)
+[   90948ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:656:253)
+[   91567ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=82EMthspz3AUeyGM3GhGSmn7TdMuODmwjE8ZrK2BcL8&ct=000000&co=ffffff&cmo=478e3b&cmn=35c980:1
+[  108713ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/coevolve-480.webp:1
+[  108727ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/piflow-480.webp:1
+[  108783ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:377:257)
+[  108783ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:656:253)
+[  109350ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=82EMthspz3AUeyGM3GhGSmn7TdMuODmwjE8ZrK2BcL8&ct=000000&co=ffffff&cmo=478e3b&cmn=35c980:1
+[  125623ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/coevolve-480.webp:1
+[  125639ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/piflow-480.webp:1
+[  125641ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:377:257)
+[  125642ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:656:253)
+[  126255ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=82EMthspz3AUeyGM3GhGSmn7TdMuODmwjE8ZrK2BcL8&ct=000000&co=ffffff&cmo=478e3b&cmn=35c980:1
+[  143458ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/coevolve-480.webp:1
+[  143492ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/piflow-480.webp:1
+[  143528ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:377:257)
+[  143528ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:656:253)
+[  144118ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=82EMthspz3AUeyGM3GhGSmn7TdMuODmwjE8ZrK2BcL8&ct=000000&co=ffffff&cmo=478e3b&cmn=35c980:1
+[  161309ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/coevolve-480.webp:1
+[  161342ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:377:257)
+[  161376ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/piflow-480.webp:1
+[  161378ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:656:253)
+[  161985ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=82EMthspz3AUeyGM3GhGSmn7TdMuODmwjE8ZrK2BcL8&ct=000000&co=ffffff&cmo=478e3b&cmn=35c980:1
+[  178566ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/coevolve-480.webp:1
+[  178585ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4000/assets/img/publication_preview/piflow-480.webp:1
+[  178659ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:377:257)
+[  178659ms] ReferenceError: $ is not defined
+    at HTMLImageElement.onerror (http://127.0.0.1:4000/:656:253)
+[  179200ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=82EMthspz3AUeyGM3GhGSmn7TdMuODmwjE8ZrK2BcL8&ct=000000&co=ffffff&cmo=478e3b&cmn=35c980:1
+[  199580ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=82EMthspz3AUeyGM3GhGSmn7TdMuODmwjE8ZrK2BcL8&ct=000000&co=ffffff&cmo=478e3b&cmn=35c980:1
+[  213336ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:35729/livereload' failed:  @ http://127.0.0.1:35729/livereload.js?snipver=1&port=35729:74
+[  214347ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:35729/livereload' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:35729/livereload.js?snipver=1&port=35729:74
+[  216355ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:35729/livereload' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:35729/livereload.js?snipver=1&port=35729:74
+[  220365ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:35729/livereload' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:35729/livereload.js?snipver=1&port=35729:74
+[  228379ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:35729/livereload' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:35729/livereload.js?snipver=1&port=35729:74
+[  244401ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:35729/livereload' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:35729/livereload.js?snipver=1&port=35729:74

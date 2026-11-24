@@ -95,6 +95,35 @@ nav_order: 6
     font-size: 0.95rem;
   }
 
+  .lecture-list {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.6rem;
+    margin-top: 0.6rem;
+  }
+
+  .lecture-list a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.4rem 0.75rem;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 6px;
+    font-size: 0.9rem;
+    text-decoration: none;
+    width: 100%;
+    transition: border-color 0.15s ease, background-color 0.15s ease;
+  }
+
+  .lecture-list a:hover {
+    border-color: var(--global-theme-color);
+    background-color: rgba(var(--global-theme-color-rgb), 0.05);
+  }
+
+  .lecture-list i {
+    font-size: 0.85rem;
+  }
+
   @media (max-width: 576px) {
     .teaching-item {
       grid-template-columns: 1fr;
@@ -160,6 +189,14 @@ nav_order: 6
   <div>
     <div class="teaching-course">Machine Learning</div>
     <div class="teaching-meta">Westlake University</div>
+    <div class="lecture-list">
+      <a href="{{ site.baseurl }}/assets/pdf/lecture01-foundations_of_data_science.pdf"><i class="fas fa-file-pdf"></i>Lecture 1: Foundations of Data Science</a>
+      <a href="{{ site.baseurl }}/assets/pdf/lecture02-linear_models_for_regression.pdf"><i class="fas fa-file-pdf"></i>Lecture 2: Linear Models for Regression</a>
+      <a href="{{ site.baseurl }}/assets/pdf/lecture03-generalization_and_classification.pdf"><i class="fas fa-file-pdf"></i>Lecture 3: Generalization and Classification</a>
+      <a href="{{ site.baseurl }}/assets/pdf/lecture04-generative_learning_algorithms.pdf"><i class="fas fa-file-pdf"></i>Lecture 4: Generative Learning Algorithms</a>
+      <a href="{{ site.baseurl }}/assets/pdf/lecture05-nonparametric_prediction_and_tree_ensembles.pdf"><i class="fas fa-file-pdf"></i>Lecture 5: Nonparametric Prediction and Tree Ensembles</a>
+      <a href="{{ site.baseurl }}/assets/pdf/lecture06-support_vector_machine.pdf"><i class="fas fa-file-pdf"></i>Lecture 6: Support Vector Machine</a>
+    </div>
   </div>
 </div>
 
